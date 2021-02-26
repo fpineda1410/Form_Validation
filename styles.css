@@ -1,0 +1,9 @@
+html body {height: 100%;}
+
+#buttons_layout {
+    border-radius: 5px;
+    width: 40%;
+    height: 12%;
+    background-color:rgb(231, 231, 231);
+    color: rgb(53, 53, 53);
+}
